@@ -82,13 +82,13 @@ I enjoy transforming ideas and Figma designs into functional digital products, w
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=laraib610&show_icons=true&hide_border=true&bg_color=0D1522&title_color=56C5BD&text_color=C9D1D9&icon_color=56C5BD" alt="GitHub Stats" />
+<img width="33.3%" src="https://github-stats-extended.vercel.app/api?username=laraib610&show_icons=true&hide_border=true&bg_color=0D1522&title_color=56C5BD&text_color=C9D1D9&icon_color=56C5BD" alt="GitHub Stats" />
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=laraib610&hide_border=true&background=0D1522&stroke=26394D&ring=56C5BD&fire=56C5BD&currStreakLabel=56C5BD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8293A5" alt="GitHub Streak" />
+<img width="33.3%" src="https://streak-stats.demolab.com/?user=laraib610&hide_border=true&background=0D1522&stroke=26394D&ring=56C5BD&fire=56C5BD&currStreakLabel=56C5BD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8293A5" alt="GitHub Streak" />
 
 <br/>
 
-<img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=laraib610&layout=compact&hide_border=true&bg_color=0D1522&title_color=56C5BD&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="33.3%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=laraib610&layout=compact&hide_border=true&bg_color=0D1522&title_color=56C5BD&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>
 
