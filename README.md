@@ -1,6 +1,6 @@
 # Laraib Mushtaq | Frontend Developer
 
-<div align="center" style="background-color:#56C5BD;">
+<div align="center" background-color="#111521" color="#56C5BD">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1522,50:17364A,100:286B70&text=Laraib%20Mushtaq&fontColor=F1F5F9&fontSize=48&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Angular%20%7C%20React%20%7C%20TypeScript&descAlignY=58&descSize=15&animation=fadeIn" width="100%" />
 
