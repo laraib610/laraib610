@@ -17,7 +17,7 @@
 
 ---
 
-## 01 / About Me
+## About Me
 
 I'm a **Frontend Developer** focused on building responsive, intuitive, and visually polished web applications.
 
@@ -35,7 +35,7 @@ I enjoy transforming ideas and Figma designs into functional digital products, w
 
 ---
 
-## 02 / Technical Expertise
+## Technical Expertise
 
 ### Frontend Development
 
@@ -78,7 +78,7 @@ I enjoy transforming ideas and Figma designs into functional digital products, w
 
 ---
 
-## 03 / GitHub Analytics
+## GitHub Analytics
 
 <div  align="center">
 <img width="33%" src="https://streak-stats.demolab.com/?user=laraib610&hide_border=true&background=0D1522&stroke=26394D&ring=56C5BD&fire=56C5BD&currStreakLabel=56C5BD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8293A5" alt="GitHub Streak" />
@@ -94,7 +94,7 @@ I enjoy transforming ideas and Figma designs into functional digital products, w
 
 ---
 
-## 04 / Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -104,7 +104,7 @@ I enjoy transforming ideas and Figma designs into functional digital products, w
 
 ---
 
-## 05 / A Developer's Thought
+## A Developer's Thought
 
 <div align="center">
 
